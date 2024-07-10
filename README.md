@@ -1,2 +1,2 @@
-# magazine
-Magazine Responsive Web Design
+# Magazine
+Magazine Responsive Web Design by Abdallah - web developer
